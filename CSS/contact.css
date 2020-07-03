@@ -1,0 +1,31 @@
+.contact_table tr {
+  height: 7rem;
+  width: 150px;
+}
+.contact_table tr th{
+  text-align: right;
+  padding-right: 1rem;
+}
+.contact_input {
+  width: 480px;
+}
+
+.gender {
+  height: 0.9rem;
+  width: 0.9rem;
+}
+
+.button_wrapper {
+  text-align: center;
+}
+
+#submit_button {
+  background-color: black;
+  color: white;
+  height: 4rem;
+  font-size: 2rem;
+}
+
+#submit_button:hover {
+  opacity: 0.5;
+}
